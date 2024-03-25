@@ -1,0 +1,13 @@
+*{
+    scroll-behavior: smooth;
+    margin: 0px;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    padding-top: 80px;
+    padding-left: 95px;
+    padding-bottom: 20px;
+    padding-right: 24px;
+    background-color: rgb(249, 249, 249);
+}
